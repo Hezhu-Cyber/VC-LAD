@@ -1,0 +1,89 @@
+{
+  "total_rows": 497030,
+  "vehicles": 10,
+  "schema_and_checksums_verified": true,
+  "python_syntax_valid": true,
+  "raw_data_modified": false,
+  "checks": [
+    {
+      "file": "vehicle_001.csv",
+      "rows": 1196,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 0,
+      "eligible_test_rows": 0
+    },
+    {
+      "file": "vehicle_002.csv",
+      "rows": 69153,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 16468,
+      "eligible_test_rows": 7059
+    },
+    {
+      "file": "vehicle_003.csv",
+      "rows": 92407,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 6442,
+      "eligible_test_rows": 2762
+    },
+    {
+      "file": "vehicle_004.csv",
+      "rows": 45126,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 0,
+      "eligible_test_rows": 0
+    },
+    {
+      "file": "vehicle_005.csv",
+      "rows": 74882,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 18053,
+      "eligible_test_rows": 7738
+    },
+    {
+      "file": "vehicle_006.csv",
+      "rows": 53504,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 0,
+      "eligible_test_rows": 0
+    },
+    {
+      "file": "vehicle_007.csv",
+      "rows": 3202,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 1862,
+      "eligible_test_rows": 799
+    },
+    {
+      "file": "vehicle_008.csv",
+      "rows": 74976,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 22060,
+      "eligible_test_rows": 9455
+    },
+    {
+      "file": "vehicle_009.csv",
+      "rows": 19754,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 0,
+      "eligible_test_rows": 0
+    },
+    {
+      "file": "vehicle_010.csv",
+      "rows": 62830,
+      "columns": 14,
+      "invalid_timestamps": 0,
+      "eligible_train_rows": 29391,
+      "eligible_test_rows": 12597
+    }
+  ]
+}

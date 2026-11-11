@@ -1,0 +1,9 @@
+{
+  "window_size": 30, "stride": 1, "hidden_dim": 48, "gru_layers": 1,
+  "dropout": 0.1, "batch_size": 64, "epochs": 30,
+  "learning_rate": 0.001, "weight_decay": 0.00001, "grad_clip": 5.0,
+  "w_p": 0.8, "w_s": 0.2, "localization_beta": 0.8,
+  "screening_percentile": 14, "maximum_gap_seconds": 15,
+  "minimum_healthy_segment_records": 500, "train_fraction": 0.7,
+  "envelope_rise_fraction": 0.30, "envelope_fall_fraction": 0.20, "seed": 42
+}
